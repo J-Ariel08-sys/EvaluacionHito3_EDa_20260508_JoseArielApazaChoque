@@ -2,7 +2,7 @@
 
 ## Estudiante - Jose Ariel Apaza Choque
 ## Materia - Estructura de Datos
-## Docente - Ruben Gonzalo Soria Soria
+## Docente - Ing. Ruben Gonzalo Soria Soria
 
 API REST desarrollada con Spring Boot para administrar calificaciones de estudiantes, distribución de asientos en aulas y participantes ordenados por puntaje.
 
